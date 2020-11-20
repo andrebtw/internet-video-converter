@@ -2,9 +2,10 @@
   "name": "internet-video-converter",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "electron ."
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/andrebtw/internet-video-converter/issues"
   },
-  "homepage": "https://github.com/andrebtw/internet-video-converter#readme"
+  "homepage": "https://github.com/andrebtw/internet-video-converter#readme",
+  "devDependencies": {
+    "electron": "^11.0.2"
+  }
 }
