@@ -1,2 +1,4 @@
-var x = document.getElementById("url").value;
-console.log(x)
+function UrlSend() {
+    var value = document.getElementById('url').value;
+    console.log(value);
+}
