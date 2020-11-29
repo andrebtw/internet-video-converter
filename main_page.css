@@ -15,13 +15,13 @@ body{
   height: 0;
 }
 
-/* IMAGE STYLES */
-/*[type=radio] + img {
+
+[type=radio] + img {
   cursor: pointer;
 }
 
-CHECKED STYLES
+/*CHECKED STYLES*/
+
 [type=radio]:checked + img {
   outline: 2px solid #f00;
 }
-*/
