@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/andrebtw/internet-video-converter#readme",
   "devDependencies": {
-    "electron": "^11.1.1"
+    "electron": "^11.1.1",
+    "youtube-dl": "^3.0.2"
   }
 }
